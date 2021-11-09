@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @adanfj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in coding permanent solutions to problems (mine or of others) and make a living
+- 🌱 I’m currently learning ReactJS, Kotlin, Python Flask, SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-adanfj/adanfj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me Discord: AdanFJ#3235
